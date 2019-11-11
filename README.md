@@ -1,0 +1,1 @@
+# nuxtjs-multilanguage-blog-website
